@@ -125,7 +125,7 @@ color: #fc4552;
 }
 
 .kalc.dark #display{
-  color: #fff;
+  color: white;
 }
 .kalc.dark button#clear{
   background-image: #2d191e;
