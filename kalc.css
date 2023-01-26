@@ -87,7 +87,7 @@ button{
 }
 button:hover{
   transform: scale(1.1);
-background-color:lightskyblue ;
+
   
 }
 #equal{
@@ -121,9 +121,11 @@ color: #fc4552;
 /*Dark Theme*/
 .kalc.dark{
   background-color: #071115;
+ 
 }
-.kalc.dark#display{
-  color: #f0fafd;
+
+.kalc.dark #display{
+  color: #fff;
 }
 .kalc.dark button#clear{
   background-image: #2d191e;
